@@ -1,2 +1,0 @@
-# Juggler
-Reverse shell multihandler
